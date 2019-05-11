@@ -34,4 +34,4 @@ Para todos los ingresos de valores en caso de no cumpplir las condicions, se pre
 Se ingresa el valor de xn  que debe ser un numero impar:
 <img src="multi3xn.PNG"/>
 4. Se generan los resultados
-<img src=multi4rc.PNG"/>
+<img src="multi4rc.PNG"/>
