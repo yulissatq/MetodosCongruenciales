@@ -12,3 +12,4 @@ En caso de que el usu no ingrese un valor acorde para cumplir las condiciones se
 <img src= "mixto1drest.PNG"/>
 2. Para calcular el parámetro de ‘a’, se hace uso de la formula a = 1 + (4 * k).
 Se ingresa el valor de ‘k’ que tiene que ser entero y mayor que 0:
+< img src="mixto2k.PNG"/>
