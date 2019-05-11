@@ -31,8 +31,8 @@ En el caso de que el usuario no ingrese un valor que cumpla las condiciones, se 
 2. Para calcular el parametro de 'a', se hace uso de la formula a = 5 + (8 * k).
 Se ingresa el valor de 'k' que tiene que ser entero y mayor que 0:
 <img src="multi2k.PNG"/>
-Para todos los ingresos de valores en caso de no cumpplir las condicions, se presentan mensajes como el mencionado 
-3.Se ingresa el valor de xn  que debe ser un numero impar:
+Para todos los ingresos de valores en caso de no cumpplir las condicions, se presentan mensajes como el mencionado
+3. Se ingresa el valor de xn que  tien que ser un  numero impar:
 <img src="multi3xn.PNG"/>
 4. Se generan los resultados
 <img src="multi4rc.PNG"/>
