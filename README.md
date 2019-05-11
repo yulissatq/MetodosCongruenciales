@@ -1,10 +1,9 @@
 # MetodosCongruenciales
 Metodos Congruenciales para generar numeros pseudo aleatorios. Metodo Congruencial Mixto y Multiplicativo.
-
--Método Congruencial Mixto
+# Metodo Congruencial Mixto
 Es un algoritmo utilizado para la generación de números aleatorios, mediante la siguiente formula:
-Xn+1 = ((a)Xn + c) mod m
-Ejecucion del Programa
+Xn+1 = ((a)Xn + c) mod 
+# Ejecucion del Programa
 1.  Para generar numeros Pseudo Aleatorios con el Metodo Congruencial Mixto se neceseita calcular el parametro de 'm', m = 2^d.
 Se ingresa el valor de 'd' que tiene que ser entero y mayor que 0:
 <img src="mixto1d.PNG" />
