@@ -16,3 +16,4 @@ Se ingresa el valor de ‘k’ que tiene que ser entero y mayor que 0:
 Para todos los ingresos de valores en caso de no cumpli las condiciones se presentara mensajes  como el mencionado anteriormente
 3.  Se ingresa el valor  de xn que tiene que ser entero y mayor que 0:
 <img src="mixto3xn.PNG"/>
+l
