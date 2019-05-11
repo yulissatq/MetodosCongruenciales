@@ -17,4 +17,4 @@ Para todos los ingresos de valores en caso de no cumpli las condiciones se prese
 3.  Se ingresa el valor  de xn que tiene que ser entero y mayor que 0:
 <img src="mixto3xn.PNG"/>
 4.  Se generan los resultados
-<img src="mixto4ryc.PNG"/>
+<img src="mixto4rc.PNG"/>
